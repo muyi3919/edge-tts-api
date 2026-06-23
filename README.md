@@ -28,8 +28,7 @@ edge-tts-api/
 ├── requirements.txt           # Python 依赖
 ├── nginx.conf                 # Nginx 反向代理配置
 ├── README.md                  # 本文档
-├── LICENSE                    # MIT 许可证（含第三方声明）
-└── .gitignore                 # Git 忽略文件
+└──  LICENSE                   # MIT 许可证（含第三方声明）
 ```
 
 ---
