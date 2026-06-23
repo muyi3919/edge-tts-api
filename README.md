@@ -2,7 +2,7 @@
 
 > 基于 Microsoft Edge 在线语音服务的免费文本转语音 HTTP API
 > 
-> 在线体验：[https://api.kina.ink](https://muyi3919.github.io/tts/)
+> 在线体验：[tts演示站点](https://muyi3919.github.io/tts/)
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/yourname/edge-tts-api)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/yourname/edge-tts-api/blob/main/LICENSE)
